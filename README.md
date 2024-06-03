@@ -1,1 +1,1 @@
-# Blog-prewive-card-componetn
+# Blog-preview-card-component
